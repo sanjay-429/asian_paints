@@ -1,0 +1,36 @@
+
+.container1{
+    display: grid;
+    border: 1px solid black;
+    
+    margin-top: 20px;
+    margin-left:33%;
+    grid-template-columns: repeat(3,auto);
+  
+   
+    background-color:cornsilk;
+    height: 500px;
+    width: 500px;
+     
+    
+}
+#cl1{
+    margin-left: 33%;
+}
+
+.grid{
+    margin: 25px auto;
+    text-align: center;
+    
+    height: 110px;
+    width:110px;
+    border: 1px solid black; 
+}
+#btn1{
+    margin-left: 45%;
+    margin-right: 40px;
+    background-color: gainsboro;
+}
+#btn2{
+    background-color: gray;
+}
